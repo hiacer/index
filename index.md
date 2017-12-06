@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
+三个月时间写了差不多一千行汇编，又三个月写了个加载器，整合之后出了个apk针对so文件的保护方案，无奈啊！！
+对demo crackme保护后本来想看看防护效果，结果放到看雪论坛上没有人关心，几天才下载了30多个。想当年一个cm无数人玩而且交流。其乐融融
+现在心情真是失落啊。
 
-You can use the [editor on GitHub](https://github.com/hiacer/ajisky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
